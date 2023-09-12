@@ -13,4 +13,6 @@
 
 ## 💻 Rodando localmente: 
 ### clonar o Projeto: 
-<div> https://github.com/lucasfelipe97silvaa/to_do-list.git </div>
+```
+https://github.com/lucasfelipe97silvaa/to_do-list.git
+```
